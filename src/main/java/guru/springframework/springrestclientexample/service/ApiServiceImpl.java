@@ -1,7 +1,7 @@
 package guru.springframework.springrestclientexample.service;
 
 import guru.springframework.api.domain.User;
-import guru.springframework.api.domain.UserData;S
+import guru.springframework.api.domain.UserData;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
